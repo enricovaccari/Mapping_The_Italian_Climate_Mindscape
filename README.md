@@ -67,4 +67,4 @@ This project is supported by a dedicated Notion workspace that documents the ful
 
 The Notion page serves as a living companion to this report, enabling transparency, reproducibility, and iterative learning beyond the static format of the impact report.
 
-🔗 **Notion Project Page**: *[https://www.notion.so/Mapping-the-Italian-Climate-Landscape-28992f104f7a8093ac0cf025686045ec?source=copy_link]*
+🔗 **Notion Project Page**: [Notion Report](https://www.notion.so/Mapping-the-Italian-Climate-Landscape-28992f104f7a8093ac0cf025686045ec?source=copy_link])
