@@ -60,3 +60,11 @@ This clarity shapes the technical path—guiding algorithm selection, feature tr
 
 ### Capstone Connection
 By documenting these expected benefits, the project makes clear why clustering is not just an academic exercise but a method to uncover actionable insights. These outcomes will serve as evaluation metrics for measuring the success and impact of the analysis.
+
+### IMPACT REPORT
+
+This project is supported by a dedicated Notion workspace that documents the full analytical journey—from problem framing and methodological decisions to intermediate insights and reflections on impact.
+
+The Notion page serves as a living companion to this report, enabling transparency, reproducibility, and iterative learning beyond the static format of the impact report.
+
+🔗 **Notion Project Page**: *[https://www.notion.so/Mapping-the-Italian-Climate-Landscape-28992f104f7a8093ac0cf025686045ec?source=copy_link]*

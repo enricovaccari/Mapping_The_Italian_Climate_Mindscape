@@ -1,6 +1,6 @@
 # 🧭 Dimensionality Reduction Techniques — Decision Summary
 
-This report compares **PCA**, **UMAP**, and **t-SNE** in terms of analytical suitability, interpretability, and computational efficiency.
+This report compares **PCA**, **UMAP**and **t-SNE** in terms of analytical suitability, interpretabilityand computational efficiency.
 
 ## Decision Matrix
 
